@@ -36,10 +36,12 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "all-contributors-cli": "^4.10.1"
+    "all-contributors-cli": "^4.10.1",
+    "nodemon": "^1.19.4"
   },
   "dependencies": {
-    "opencollective": "^1.0.3"
+    "opencollective": "^1.0.3",
+    "webpack-dev-server": "^3.9.0"
   },
   "collective": {
     "type": "opencollective",
